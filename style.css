@@ -107,3 +107,26 @@ body {
     color: #E55473;
 }
 /*  Hot Deal style End  */
+
+/* Seasonal flowers style start */
+.flower-content{
+    padding-top: 40px;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.flower-content p{
+    color: rgba(39, 39, 39, 0.60);
+}
+.all-flower{
+    padding-top: 20px;
+    display:flex;
+    gap: 20px;
+    justify-content: center;
+   
+}
+.flower-img img{
+    width: 250px;
+
+}
+/* Seasonal flowers style End */
