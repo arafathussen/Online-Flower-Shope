@@ -1,6 +1,37 @@
-/* common style */
+/* common style Start */
 body {
     margin: 0;
     font-family: "Lato", sans-serif;
     font-family: "Open Sans", sans-serif;
 }
+.btn{
+    font-size: 15px;
+    background: #E55473;
+    padding: 15px 30px;
+    border-radius: 8px;
+    border: 0;
+    color: white;
+}
+
+/* common style End */
+
+/* banner area style Start */
+.banner{
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 20px 150px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-title{
+    font-weight: 800;
+    font-size: 35px;
+}
+.banner-img{
+    width: 450px;
+
+}
+.banner-content{
+    max-width: 50%;
+}
+/* banner area style End */
