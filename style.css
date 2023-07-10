@@ -15,7 +15,7 @@ body {
 
 /* common style End */
 
-/* banner area style Start */
+/* banner style Start */
 .banner{
     background-color: rgba(229, 84, 115, 0.10);
     padding: 20px 150px 0px 150px;
@@ -27,6 +27,9 @@ body {
     font-weight: 800;
     font-size: 35px;
 }
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+}
 .banner-img{
     width: 450px;
 
@@ -34,4 +37,44 @@ body {
 .banner-content{
     max-width: 50%;
 }
-/* banner area style End */
+/* banner style End */
+
+/* Our Flowers Colection style Start */
+.flower-are{
+    margin-top: 80px;
+    text-align: center;
+}
+.flower-title p{
+    color: rgba(39, 39, 39, 0.60);
+    max-width: 50%;
+    margin: auto;
+}
+.img-container{
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.singel-img-1 img{
+    width: 200px;
+    padding: 60px 60px 0px 60px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+}
+.singel-img-2 img{
+    width: 200px;
+    padding: 60px 60px 0px 60px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+}
+.singel-img-3 img{
+    width: 200px;
+    padding: 60px 60px 0px 60px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17, 0.15);
+}
+.text-line{
+    text-decoration-line: underline;
+}
+/* Our Flowers Colection style End */
