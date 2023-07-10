@@ -39,7 +39,7 @@ body {
 }
 /* banner style End */
 
-/* Our Flowers Colection style Start */
+/* Our Flowers ColLection style Start */
 .flower-are{
     margin-top: 80px;
     text-align: center;
@@ -77,4 +77,33 @@ body {
 .text-line{
     text-decoration-line: underline;
 }
-/* Our Flowers Colection style End */
+/* Our Flowers ColLection style End */
+
+/*  Hot Deal style Start  */
+
+.hot-deal{
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+.hot-deal-img{
+    width: 200px ;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.hot-deal-content{
+    padding-left: 50px;
+}
+.hot-deal-content p{
+    width: 60%;
+    margin: auto;
+    padding-bottom: 20px;
+    color: rgba(39, 39, 39, 0.60);
+}
+.pink-txt{
+    color: #E55473;
+}
+/*  Hot Deal style End  */
