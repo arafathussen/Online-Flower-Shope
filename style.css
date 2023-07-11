@@ -134,6 +134,7 @@ body {
 /*  Flowers video style Start  */
 .video-container{
     margin-top: 80px;
+    margin-bottom: 80px;
     background: rgba(229, 84, 115, 0.05); 
 }
 .video{
@@ -143,9 +144,39 @@ body {
 .video-content{
     display: flex;
     align-items: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 .video-title p{
     color:rgba(39, 39, 39, 0.60) ;
 }
+/*  Subscribe section style start  */
+.sub-container input{
+    padding: 15px 80px;
+    border-radius: 8px;
+    border: 0;
+    color: rgba(39, 39, 39, 0.60);
+}
+.sub-container{
+    background-image: url(./images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 80%;
+    border-radius: 8px;
+    margin: auto;
+      
+}
+.sub-content{
+   text-align: center;
+   padding: 80px 0;
+
+}
+.sub-content p{
+    color: rgba(39, 39, 39, 0.60);
+}
+.em-input{
+    margin-right: 5px;
+    color: rgb(255, 255, 255);
+}
+
+/*  Subscribe section style End  */
