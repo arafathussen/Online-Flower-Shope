@@ -180,3 +180,23 @@ body {
 }
 
 /*  Subscribe section style End  */
+
+/* footer style start */
+
+.footer-container{
+    margin-top: 80px;
+    padding: 50px 0;
+    background-color: #111010;
+    color: white;
+    text-align: center;
+}
+.footer-title p{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.771);
+    width: 50%;
+    margin: auto;
+}
+.cope-right{
+    color:rgba(255, 255, 255, 0.40) ;
+}
+/* footer style end */
