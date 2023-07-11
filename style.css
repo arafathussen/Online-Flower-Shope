@@ -130,3 +130,22 @@ body {
 
 }
 /* Seasonal flowers style End */
+
+/*  Flowers video style Start  */
+.video-container{
+    margin-top: 80px;
+    background: rgba(229, 84, 115, 0.05); 
+}
+.video{
+    padding: 50px;
+  
+}
+.video-content{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.video-title p{
+    color:rgba(39, 39, 39, 0.60) ;
+}
